@@ -17,27 +17,21 @@ A production-ready enterprise network design and physical cabling layout enginee
 ### 1. Overall Campus Layout (Building A & Building B)
 The campus comprises two primary buildings interconnected via high-speed fiber uplink to ensure seamless communication and resource sharing:
 
-<p align="center">
-  <img src="image_d87a01.jpg" alt="School Campus Physical Overview" width="750">
-</p>
+<img src="overall-campus.png" alt="School Campus Physical Overview" width="750">
 
 ---
 
 ### 2. Building A Internal Cabling & TR Layout
 Dedicated physical cabling paths for **Lab A** mapped directly to the Telecommunication Rooms (TR) utilizing structured patch panels and wall mounts:
 
-<p align="center">
-  <img src="image_d87a1d.jpg" alt="Building A Internal Cabling" width="750">
-</p>
+<img src="building-a-wiring.png" alt="Building A Internal Cabling" width="750">
 
 ---
 
 ### 3. Building B Internal Cabling & Classrooms Layout
 Detailed distribution mapping classrooms, labs, administration offices, and the library directly to the main wiring closets:
 
-<p align="center">
-  <img src="image_d87a41.jpg" alt="Building B Internal Cabling" width="750">
-</p>
+<img src="building-b-wiring.png" alt="Building B Internal Cabling" width="750">
 
 ---
 
